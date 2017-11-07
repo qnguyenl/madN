@@ -1,5 +1,5 @@
 # madN
-[Demo](madN.theartdesign.de)
+[Demo](http://madN.theartdesign.de)
 
 madN ist ein PHP-Programm, das „Mensch ärgere Dich nicht“
 spielt.
